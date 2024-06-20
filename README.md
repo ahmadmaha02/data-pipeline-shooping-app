@@ -9,6 +9,7 @@ For detailed instructions, see [Astro CLI docs](https://docs.astronomer.io/astro
 ## Project Overview
 
 <img src="./assets/asset.png" alt="project overview"/>
+
 ## Data stack:
 
 - **Source database:** PostgreSQL
